@@ -1,4 +1,4 @@
-Privacy Policy
+Privacy Policy  
 Last Updated: June 24, 2026
 
 I value your privacy and am committed to being transparent about the information this game collects. This game does not collect any personal information such as names, email addresses, device identifiers, or location data.
@@ -9,8 +9,8 @@ If you have questions or concerns specifically about this privacy policy, you ma
 
 If you choose to include your email address in the privacy‑policy form, it is entirely optional and will only be used if you want a reply. Your email is not shared, sold, or used for any purpose other than responding to your privacy‑related questions or concerns.
 
-You can submit privacy‑policy questions or concerns here:
-https://forms.gle/6d1tLkh2773eDNfo8
+You can submit privacy‑policy questions or concerns here:  
+<https://forms.gle/6d1tLkh2773eDNfo8>
 
 Information submitted through this form is used solely to answer privacy‑policy questions or concerns and improve the clarity of this policy. No data is shared, sold, or used for advertising or analytics.
 
